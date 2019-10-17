@@ -1,7 +1,6 @@
 package model;
 
 import java.io.Serializable;
-import java.util.List;
 
 /**
  * 用户实体类
